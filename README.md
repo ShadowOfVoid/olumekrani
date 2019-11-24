@@ -1,0 +1,1 @@
+Ismı değiştirmeyin, script bozulacaktır.
